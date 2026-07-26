@@ -1,8 +1,3 @@
-<div align="center">
-<a href="https://www.remenyikzs.hu" target="_blank"><img src="images/logo_rezsi.jpg"></a>
-
-</div>
-
 # Üdvözöllek a Programozási Tananyagok Oldalán!
 ---
 
@@ -16,7 +11,7 @@ A bal oldali menüsorban (vagy mobilon a bal felső menü ikonra kattintva) tuds
 
 *   **C# Programozás:** A .NET keretrendszer, a C# nyelv alapjai, vezérlési szerkezetek, tömbök, és a klasszikus programozási tételek.
 *   **Python:** Alapozó feladatok, adatkezelés és scriptek.
-*   *(Hamarosan: HTML, CSS, JS, ...)*
+*   *(Itt tudsz szemlézni a jövendőbeli nyelvek közt: [Tantárgyak](https://tananyagok.czegledidavid.com/checkpoints/))*
 
 !!! tip "Hogyan használd az oldalt?"
     Minden nagyobb fejezet végén találsz **gyakorló feladatokat**. Javaslom, hogy a megoldásokat ne csak olvasd, hanem próbáld meg magad is begépelni és lefuttatni a saját fejlesztői környezetedben! 

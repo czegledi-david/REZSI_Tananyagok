@@ -16,14 +16,17 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Váltás világos módra
+copyright: Czeglédi Dávid &copy; 2026. Minden jog fenntartva.
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/czegledi-david
+      name: GitHub repo
 plugins:
   - awesome-pages
   - search
   - glightbox
   - mkdocs-pdf
-  - git-revision-date-localized:  
-      type: datetime
-      timezone: Europe/Budapest
 markdown_extensions:
   - admonition
   - pymdownx.details

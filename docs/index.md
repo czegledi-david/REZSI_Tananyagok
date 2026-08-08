@@ -1,4 +1,4 @@
-# Üdvözöllek a Programozási Tananyagok Oldalán!
+# Programozási Tananyagok Oldala
 ---
 
 Ezek a digitális segédanyagok elsősorban a **Remenyik Zsigmond Technikum** diákjai számára készültek, azzal a céllal, hogy támogassák az órai munkát, az önálló gyakorlást és az otthoni felkészülést. Természetesen a leírások bárki más számára is hasznosak lehetnek, aki most ismerkedik a szoftverfejlesztés világával.
@@ -11,6 +11,7 @@ A bal oldali menüsorban (vagy mobilon a bal felső menü ikonra kattintva) tuds
 
 *   **C# Programozás:** A .NET keretrendszer, a C# nyelv alapjai, vezérlési szerkezetek, tömbök, és a klasszikus programozási tételek.
 *   **Python:** Alapozó feladatok, adatkezelés és scriptek.
+*   **HTML:** Alapok, Agazati vizsga felkészítő
 *   *(Itt tudsz szemlézni a jövendőbeli nyelvek közt: [Tantárgyak](https://tananyagok.czegledidavid.com/checkpoints/))*
 
 !!! tip "Hogyan használd az oldalt?"

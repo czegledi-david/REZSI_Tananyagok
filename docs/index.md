@@ -11,7 +11,8 @@ A bal oldali menüsorban (vagy mobilon a bal felső menü ikonra kattintva) tuds
 
 *   **C# Programozás:** A .NET keretrendszer, a C# nyelv alapjai, vezérlési szerkezetek, tömbök, és a klasszikus programozási tételek.
 *   **Python:** Alapozó feladatok, adatkezelés és scriptek.
-*   **HTML:** Alapok, Agazati vizsga felkészítő
+*   **HTML, CSS, Javascript:** Alapok
+*   **Vizsga felkészítők:** Két legfontosabb vizsgára való felkészítés
 *   *(Itt tudsz szemlézni a jövendőbeli nyelvek közt: [Tantárgyak](https://tananyagok.czegledidavid.com/checkpoints/))*
 
 !!! tip "Hogyan használd az oldalt?"

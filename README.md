@@ -22,4 +22,42 @@ A portál úgy lett felépítve, hogy a lehető legnagyobb segítséget nyújtsa
 A tananyagok egy egyszerű és letisztult Markdown (`.md`) formátumban íródtak, a weboldal megjelenítéséért pedig a [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) keretrendszer felel. Ez biztosítja a gyors működést, a reszponzív (mobilon is tökéletesen olvasható) dizájnt, a kényelmes beépített keresőt és az éjszakai (Dark) módot a kódoláshoz.
 
 ---
+
+## 🛠️ Lokális fejlesztés és szerkesztés (Contributor Guide)
+
+Ha szeretnéd a saját gépeden is futtatni és szerkeszteni a weblapot (például ha te is csatlakozol a jegyzetkészítő csapathoz), az alábbi lépésekkel tudod felépíteni a környezetet:
+
+### 1. A kód letöltése
+Nyisd meg a terminált, és klónozd le a repozitóriumot:
+```bash
+git clone https://github.com/czegledi-david/REZSI_Tananyagok
+cd REZSI_Tananyagok
+```
+
+### 2. Virtuális környezet létrehozása (Ajánlott)
+Hogy ne keveredjenek a csomagok a gépeden, hozz létre egy izolált Python környezetet:
+```bash
+# Létrehozás
+python3 -m venv venv
+
+# Aktiválás Mac/Linux alatt:
+source venv/bin/activate
+# Aktiválás Windows alatt:
+venv\Scripts\activate
+```
+
+### 3. Függőségek telepítése
+Az oldal megjelenítéséhez és az extra funkciókhoz (letöltés, képnagyítás, menürendszer) fel kell telepíteni az MkDocs csomagjait:
+```bash
+pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-glightbox mkdocs-pdf
+```
+
+### 4. Szerver indítása
+Indítsd el a lokális szervert:
+```bash
+mkdocs serve
+```
+A weboldal most már elérhető a böngésződben a `http://127.0.0.1:8000` címen. Ha bármit módosítasz az `.md` fájlokban, az oldal automatikusan frissülni fog.
+
+---
 **Készítette:** Czeglédi Dávid

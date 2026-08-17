@@ -27,6 +27,9 @@ plugins:
   - search
   - glightbox
   - mkdocs-pdf
+  - search
+  - blog:
+     archive: false
 markdown_extensions:
   - admonition
   - pymdownx.details

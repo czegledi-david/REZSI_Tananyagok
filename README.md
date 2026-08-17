@@ -60,4 +60,4 @@ mkdocs serve
 A weboldal most már elérhető a böngésződben a `http://127.0.0.1:8000` címen. Ha bármit módosítasz az `.md` fájlokban, az oldal automatikusan frissülni fog.
 
 ---
-**Készítette:** Czeglédi Dávid
+**Készítette:** Czeglédi Dávid Teszt

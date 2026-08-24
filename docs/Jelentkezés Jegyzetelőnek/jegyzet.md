@@ -1,4 +1,4 @@
-# Jelentkezés Jegyzetkészítőnek
+# Jelentkezés Jegyzetelőnek
 
 Szeretsz átlátható, szép jegyzeteket írni? Szeretnél aktívan hozzájárulni a csoport sikeréhez, és közben extrán elmélyíteni a saját tudásodat is? 
 
@@ -48,6 +48,7 @@ Nem kell profi programozónak lenned, de a következő tulajdonságok fontosak:
 Ha kedvet kaptál hozzá, ne habozz! Vedd fel velem a kapcsolatot az alábbi csatornák valamelyikén:
 
 * **Személyesen:** Az óra elején vagy végén gyere oda hozzám, és beszéljük meg!
+
 * **Online:** Küldd be az első próbajegyzetedet közvetlenül a GitHubon egy Pull Request formájában! Minden ehhez szükséges technikai infót megtalálsz lejjebb, illetve a [README](https://github.com/czegledi-david/REZSI_Tananyagok) fájlban.
 
 ---
@@ -64,7 +65,7 @@ Mivel a tananyag hivatalos portáljára nem írhatsz bele közvetlenül, a fejle
 ### 2. Töltsd le a gépedre (Clone)
 Nyiss egy terminált vagy VS Code-ot, és töltsd le a *saját* másolatodat:
 ```bash
-git clone [https://github.com/](https://github.com/)<a-te-felhasznaloneved>/REZSI_Tananyagok.git
+git clone https://github.com/<a-te-felhasznaloneved>/REZSI_Tananyagok.git
 cd REZSI_Tananyagok
 ```
 

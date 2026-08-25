@@ -2,4 +2,4 @@ venv/
 site/
 __pycache__/
 secret/
-sec/
+.Ds_Store

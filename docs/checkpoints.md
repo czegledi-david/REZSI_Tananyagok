@@ -5,7 +5,7 @@ Ezen az oldalon nyomon követheted, hogy az egyes tantárgyak és témakörök d
 | 💡 Téma | Tantárgy / Modul | Kezdés | Befejezés | Állapot | Fókusz / Célkitűzés |
 | :---: | :--- | :---: | :---: | :---: | :--- |
 | 🚀 | **C# Programozás Alapok** | 2026.07.23 | 2026.07.24 | ✅ **100%** | Stabil alaptudás, OOP és GUI rutin |
-| 🐍 | **Python Programozás** | 2026.07.23 | - | ⏳ **97%**<br><progress value="97" max="100" style="width: 80px; height: 8px;"></progress> | Szintaktika, adatkezelés, tiszta kód |
+| 🐍 | **Python Programozás** | 2026.07.23 | 2026.08.25 | ✅ **100%** | Szintaktika, adatkezelés, tiszta kód |
 | 🌐 | **HTML** | 2026.07.25 | - | ⏳ **5%**<br><progress value="5" max="100" style="width: 80px; height: 8px;"></progress> | Stabil és szemantikus webes struktúrák |
 | 🎨 | **CSS** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Modern, reszponzív design építése |
 | ⚡ | **Javascript** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Interaktivitás és kliensoldali logika |
@@ -26,7 +26,7 @@ Ezen az oldalon nyomon követheted, hogy az egyes tantárgyak és témakörök d
 > 🔒 **Időszakos tartalmak:**
 > A vizsgafelkészítő anyagok és megoldások az év nagy részében rejtve vannak, és kizárólag a célzott vizsgafelkészülés időszakában válnak elérhetővé a portálon.
 
-> *Utolsó frissítés: 2026. augusztus 17.*
+> *Utolsó frissítés: 2026. augusztus 25.*
 
 <!--
 ⏳

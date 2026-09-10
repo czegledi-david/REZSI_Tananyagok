@@ -13,7 +13,7 @@ Ezen az oldalon nyomon követheted, hogy az egyes tantárgyak és témakörök d
 | 🎓 | **Ágazati alapvizsga felkészítő** | 2026.08.08 | 2026.08.08 | ✅ **100%** | Magabiztos vizsgaeredmény<br>*(Csak vizsgaidőszakban elérhető!)* 🔒 |
 | 🏁 | **Szakmai Vizsga felkészítő** | 2026.08.16 | 2026.08.16 | ✅ **100%** | Magabiztos, sikeres vizsgaeredmény<br>*(Csak vizsgaidőszakban elérhető!)* 🔒 | 
 | 🧩 | **Elemi Programozási tételek** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Algoritmikus gondolkodás fejlesztése |
-| 🧱 | **OOP Programozás** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Objektumorientált szemlélet, osztályok és tervezés |
+| 🧱 | **OOP Programozás** | 2026.09.10 | - | ⏳ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Objektumorientált szemlélet, osztályok és tervezés |
 | 🐧 | **Linux alapok** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Parancssoros (CLI) magabiztosság |
 | 🐙 | **GitHub alapok** | 2026.08.17 | 2026.08.17 | ✅ **100%** | Verziókövetés, kollaboráció és portfólió építés |
 
